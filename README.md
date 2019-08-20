@@ -2,7 +2,7 @@
 
 Theme Name: Unite
 Theme URI: http://colorlib.com/wp/unite/
-Version: 2.0.2
+Version: 2.0.3
 Tested up to: WP 4.5
 
 #Copyright notice#
@@ -59,6 +59,10 @@ If you dismiss this notice, you can install this plugin later via Appearance->In
 Theme documentation is available on http://colorlib.com/wp/support/unite
 
 #Changelog#
+
+####2.0.3 - 20.08.2019 ####
+
+* Improved accesibility with keyboard navigation
 
 ####2.0.2 - 18.03.2016 ####
 
