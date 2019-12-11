@@ -27,7 +27,7 @@ if ( function_exists( 'wp_body_open' ) ) {
     do_action( 'wp_body_open' );
 }
 ?>
-<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'sss' ); ?></a>
+<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'unite' ); ?></a>
 <div id="page" class="hfeed site">
 	<div class="container header-area">
 		<?php do_action( 'before' ); ?>
