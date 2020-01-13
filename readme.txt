@@ -66,7 +66,7 @@ Theme documentation is available on http://colorlib.com/wp/support/unite
 
 
 = Images bundled with the theme =
-* screenshot.png - Screenshot of the theme
+* screenshot.png - Screenshot of the theme by Colorlib
 
 
 == Changelog ==
