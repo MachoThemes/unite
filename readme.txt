@@ -1,7 +1,7 @@
 == Unite ==
 Contributors: silkalns
 Theme URI: http://colorlib.com/wp/unite/
-Version: 2.0.6
+Version: 2.0.8
 Tested up to: WP 5.3
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl.html
@@ -71,6 +71,14 @@ Theme documentation is available on http://colorlib.com/wp/support/unite
  https://www.pexels.com/photo/landscape-nature-night-relaxation-36478/; Image used in screenshot.png
 
 == Changelog ==
+
+####2.0.8 - 14.01.2020 ####
+* Update screenshot
+* Fixed some escaping
+* Fixed some prefixing
+* Added subject tags
+* Translation fixes
+
 
 ####2.0.5 - 13.12.2019 ####
 * Updated TGMPA
