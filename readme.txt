@@ -67,7 +67,8 @@ Theme documentation is available on http://colorlib.com/wp/support/unite
 
 = Images bundled with the theme =
 * screenshot.png - Screenshot of the theme by Colorlib
-
+* landscape-nature-night-relaxation-36478 by Pixababy
+ https://www.pexels.com/photo/landscape-nature-night-relaxation-36478/; Image used in screenshot.png
 
 == Changelog ==
 
